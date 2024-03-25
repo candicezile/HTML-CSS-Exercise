@@ -37,7 +37,17 @@ table {
 
 td, th {
   border: 1px solid #dddddd;
-  text-align: left;
+  text-align: left;ul {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+ul li {
+    display: inline; 
+    margin-right: 10px; 
+}
+
  
 }
 
